@@ -7,7 +7,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Velasco-Dev&locale=es&mode=daily&theme=dracula&hide_border=true&border_radius=10" height="150" alt="streak graph" style="border-radius: 15px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Velasco-Dev&locale=es&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Velasco-Dev&locale=es&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=true" height="150" alt="languages graph" style="border-radius: 15px;" />
 </div>
 
 ###
