@@ -1,4 +1,4 @@
-<h1>👨‍💻 ¡Hola mi nombre es Rubén Velasco! </h1>
+<h1>👨‍💻 ¡Heyo Whatsup nombre es Rubén Velasco! </h1>
 <p><strong>Soy un Desarrollador Full Stack Jr Apasionado por la Tecnología.</strong></p>
 <p align="left">Bienvenido a mi espacio en GitHub. Aquí encontrarás una variedad de proyectos de prueba y personales en diferentes tecnologías, que reflejan mi aprendizaje y crecimiento en el mundo del desarrollo de software.<br><br><strong>🛠️ Tecnologías que uso</strong><br><br><strong>• Frontend:</strong> React, React Native, HTML5, CSS3 y Bootstrap.<br><strong>• Backend:</strong> Python (Django), PHP y JavaScript.<br><strong>• Bases de datos:</strong> MongoDB, MySQL y OracleDB.<br><strong>• Otros:</strong> Kotlin y Java.<br><strong>• Verisionamiento:</strong> Git.<br><strong>• IDEs:</strong> Android Studio y VS Code. <br><br>Gracias por visitar mi perfil 😄. ¡Siempre estoy aprendiendo y mejorando!</p>
 
